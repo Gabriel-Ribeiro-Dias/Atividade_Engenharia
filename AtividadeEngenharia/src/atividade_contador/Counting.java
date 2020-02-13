@@ -20,5 +20,6 @@ public class Counting {
 	public int getvB() {
 		return vB;
 	}
+	//Matheus mecheu aquiii
 
 }
